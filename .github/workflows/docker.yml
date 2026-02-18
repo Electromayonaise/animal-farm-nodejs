@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            Electromayonaise/animal-farm-nodejs:latest
-            ghcr.io/Electromayonaise/animal-farm-nodejs:latest
+            electromayonaise/animal-farm-nodejs:latest
+            ghcr.io/electromayonaise/animal-farm-nodejs:latest
